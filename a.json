@@ -3,151 +3,176 @@
     "id" : 1,
     "nombre" : "Juan Perez",
     "dni" : "12345678A",
-    "sueldosMensuales" : [ 1796.42, 1212.54, 1618.31, 1366.16, 1813.2, 1350.88, 1398.8, 1971.56, 1346.52, 1922.09, 1454.39, 1859.46 ],
-    "sueldoMedio" : 1592.5275000000001
+    "sueldoMedio" : 1624.38,
+    "sueldoMaximo" : 1999.66,
+    "sueldoMinimo" : 1291.36
   }, {
     "id" : 2,
     "nombre" : "Maria Garcia",
     "dni" : "87654321B",
-    "sueldosMensuales" : [ 1765.02, 1931.54, 1287.0, 1287.7, 1860.23, 1703.34, 1204.85, 1604.54, 1758.94, 1218.81, 1507.24, 1946.82 ],
-    "sueldoMedio" : 1589.6691666666666
+    "sueldoMedio" : 1566.98,
+    "sueldoMaximo" : 1957.11,
+    "sueldoMinimo" : 1222.6
   }, {
     "id" : 3,
     "nombre" : "Pedro Rodriguez",
     "dni" : "12398745C",
-    "sueldosMensuales" : [ 1905.5, 1905.91, 1902.81, 1407.09, 1256.96, 1476.98, 1939.16, 1517.71, 1360.38, 1819.23, 1960.32, 1418.85 ],
-    "sueldoMedio" : 1655.9083333333335
+    "sueldoMedio" : 1606.26,
+    "sueldoMaximo" : 1990.82,
+    "sueldoMinimo" : 1223.45
   }, {
     "id" : 4,
     "nombre" : "Laura Sanchez",
     "dni" : "87451236D",
-    "sueldosMensuales" : [ 1331.64, 1974.13, 1471.27, 1622.33, 1331.71, 1899.29, 1377.58, 1852.39, 1336.34, 1988.08, 1580.99, 1239.43 ],
-    "sueldoMedio" : 1583.765
+    "sueldoMedio" : 1700.96,
+    "sueldoMaximo" : 1945.11,
+    "sueldoMinimo" : 1291.74
   }, {
     "id" : 5,
     "nombre" : "Javier Lopez",
     "dni" : "74951238E",
-    "sueldosMensuales" : [ 1421.49, 1829.5, 1850.6, 1961.82, 1837.25, 1822.87, 1752.01, 1875.77, 1819.01, 1818.63, 1905.52, 1742.74 ],
-    "sueldoMedio" : 1803.1008333333332
+    "sueldoMedio" : 1506.2,
+    "sueldoMaximo" : 1849.45,
+    "sueldoMinimo" : 1225.42
   }, {
     "id" : 6,
     "nombre" : "Ana Fernandez",
     "dni" : "98234567F",
-    "sueldosMensuales" : [ 1385.25, 1539.03, 1957.52, 1958.06, 1897.09, 1339.11, 1587.62, 1404.54, 1305.89, 1300.65, 1237.14, 1998.81 ],
-    "sueldoMedio" : 1575.8925
+    "sueldoMedio" : 1492.15,
+    "sueldoMaximo" : 1689.22,
+    "sueldoMinimo" : 1263.19
   }, {
     "id" : 7,
     "nombre" : "Miguel Torres",
     "dni" : "34567821G",
-    "sueldosMensuales" : [ 1590.25, 1708.72, 1833.23, 1868.08, 1685.42, 1842.44, 1595.76, 1489.22, 1633.14, 1518.77, 1452.62, 1741.96 ],
-    "sueldoMedio" : 1663.3008333333335
+    "sueldoMedio" : 1455.84,
+    "sueldoMaximo" : 1943.42,
+    "sueldoMinimo" : 1201.18
   }, {
     "id" : 8,
     "nombre" : "Lucia Martin",
     "dni" : "54872345H",
-    "sueldosMensuales" : [ 1531.16, 1359.88, 1852.49, 1472.1, 1337.36, 1312.01, 1251.95, 1630.51, 1884.16, 1325.56, 1467.74, 1348.12 ],
-    "sueldoMedio" : 1481.0866666666668
+    "sueldoMedio" : 1608.96,
+    "sueldoMaximo" : 1923.19,
+    "sueldoMinimo" : 1207.53
   }, {
     "id" : 9,
     "nombre" : "Raul Gonzalez",
     "dni" : "67543218I",
-    "sueldosMensuales" : [ 1584.61, 1313.21, 1822.55, 1226.51, 1262.51, 1934.94, 1776.65, 1868.42, 1714.54, 1815.82, 1725.48, 1241.95 ],
-    "sueldoMedio" : 1607.2658333333331
+    "sueldoMedio" : 1513.39,
+    "sueldoMaximo" : 1873.5,
+    "sueldoMinimo" : 1218.75
   }, {
     "id" : 10,
     "nombre" : "Carmen Ruiz",
     "dni" : "32458769J",
-    "sueldosMensuales" : [ 1813.21, 1684.53, 1856.84, 1666.71, 1585.25, 1627.49, 1399.59, 1629.8, 1550.8, 1385.64, 1658.84, 1283.99 ],
-    "sueldoMedio" : 1595.2241666666666
+    "sueldoMedio" : 1467.42,
+    "sueldoMaximo" : 1905.49,
+    "sueldoMinimo" : 1208.3
   }, {
     "id" : 11,
     "nombre" : "Sergio Hernandez",
     "dni" : "82736451K",
-    "sueldosMensuales" : [ 1884.59, 1377.83, 1521.26, 1349.96, 1860.94, 1916.9, 1227.07, 1639.06, 1570.48, 1891.48, 1543.76, 1932.55 ],
-    "sueldoMedio" : 1642.99
+    "sueldoMedio" : 1651.59,
+    "sueldoMaximo" : 1946.22,
+    "sueldoMinimo" : 1250.47
   }, {
     "id" : 12,
     "nombre" : "Sofia Morales",
     "dni" : "92748365L",
-    "sueldosMensuales" : [ 1246.94, 1218.65, 1839.75, 1697.84, 1918.3, 1629.54, 1944.6, 1291.65, 1697.5, 1832.18, 1495.6, 1894.78 ],
-    "sueldoMedio" : 1642.2775000000001
+    "sueldoMedio" : 1624.01,
+    "sueldoMaximo" : 1995.89,
+    "sueldoMinimo" : 1239.31
   }, {
     "id" : 13,
     "nombre" : "David Castillo",
     "dni" : "43658729M",
-    "sueldosMensuales" : [ 1253.4, 1402.52, 1908.74, 1242.54, 1453.67, 1287.2, 1375.67, 1659.33, 1447.07, 1558.01, 1976.01, 1975.74 ],
-    "sueldoMedio" : 1544.9916666666668
+    "sueldoMedio" : 1610.98,
+    "sueldoMaximo" : 1971.1,
+    "sueldoMinimo" : 1246.99
   }, {
     "id" : 14,
     "nombre" : "Isabel Ortega",
     "dni" : "98237465N",
-    "sueldosMensuales" : [ 1753.21, 1840.49, 1708.34, 1200.67, 1853.86, 1846.07, 1380.72, 1740.75, 1730.48, 1868.82, 1665.59, 1903.84 ],
-    "sueldoMedio" : 1707.7366666666667
+    "sueldoMedio" : 1603.22,
+    "sueldoMaximo" : 1865.52,
+    "sueldoMinimo" : 1287.82
   }, {
     "id" : 15,
     "nombre" : "Manuel Vega",
     "dni" : "12387594O",
-    "sueldosMensuales" : [ 1368.55, 1565.58, 1611.62, 1792.78, 1449.99, 1819.47, 1318.71, 1490.36, 1480.78, 1794.59, 1520.42, 1655.59 ],
-    "sueldoMedio" : 1572.37
+    "sueldoMedio" : 1673.75,
+    "sueldoMaximo" : 1989.37,
+    "sueldoMinimo" : 1228.46
   }, {
     "id" : 16,
     "nombre" : "Paula Rojas",
     "dni" : "76543218P",
-    "sueldosMensuales" : [ 1251.65, 1821.21, 1481.56, 1896.48, 1805.51, 1307.85, 1506.79, 1953.4, 1785.99, 1859.13, 1469.48, 1622.18 ],
-    "sueldoMedio" : 1646.7691666666667
+    "sueldoMedio" : 1648.14,
+    "sueldoMaximo" : 1993.85,
+    "sueldoMinimo" : 1369.97
   }, {
     "id" : 17,
     "nombre" : "Ruben Gimenez",
     "dni" : "12983756Q",
-    "sueldosMensuales" : [ 1367.47, 1984.57, 1708.25, 1865.27, 1317.37, 1216.23, 1402.06, 1304.05, 1517.69, 1309.68, 1722.8, 1654.76 ],
-    "sueldoMedio" : 1530.8500000000001
+    "sueldoMedio" : 1546.69,
+    "sueldoMaximo" : 1874.45,
+    "sueldoMinimo" : 1206.42
   }, {
     "id" : 18,
     "nombre" : "Adriana Ramos",
     "dni" : "67834512R",
-    "sueldosMensuales" : [ 1473.29, 1285.0, 1477.76, 1865.14, 1760.18, 1771.54, 1592.58, 1728.3, 1618.06, 1652.11, 1248.6, 1995.02 ],
-    "sueldoMedio" : 1622.2983333333332
+    "sueldoMedio" : 1682.91,
+    "sueldoMaximo" : 1992.04,
+    "sueldoMinimo" : 1307.16
   }, {
     "id" : 19,
     "nombre" : "Jose Ibanez",
     "dni" : "98237645S",
-    "sueldosMensuales" : [ 1566.98, 1559.37, 1576.68, 1875.12, 1428.75, 1959.29, 1323.09, 1912.99, 1459.68, 1563.38, 1641.1, 1342.11 ],
-    "sueldoMedio" : 1600.7116666666668
+    "sueldoMedio" : 1608.41,
+    "sueldoMaximo" : 1968.9,
+    "sueldoMinimo" : 1298.5
   }, {
     "id" : 20,
     "nombre" : "Claudia Pardo",
     "dni" : "78452139T",
-    "sueldosMensuales" : [ 1851.76, 1443.61, 1325.34, 1367.73, 1635.49, 1480.93, 1794.17, 1396.52, 1217.97, 1860.19, 1738.71, 1626.44 ],
-    "sueldoMedio" : 1561.5716666666667
+    "sueldoMedio" : 1708.56,
+    "sueldoMaximo" : 1998.03,
+    "sueldoMinimo" : 1325.61
   }, {
     "id" : 21,
     "nombre" : "Vicente Varela",
     "dni" : "92387546U",
-    "sueldosMensuales" : [ 1416.04, 1231.6, 1395.37, 1829.78, 1894.68, 1290.49, 1461.93, 1406.6, 1396.96, 1684.52, 1365.8, 1455.54 ],
-    "sueldoMedio" : 1485.7758333333334
+    "sueldoMedio" : 1576.15,
+    "sueldoMaximo" : 1966.53,
+    "sueldoMinimo" : 1244.68
   }, {
     "id" : 22,
     "nombre" : "Andrea Gutierrez",
     "dni" : "34827619V",
-    "sueldosMensuales" : [ 1452.41, 1739.37, 1505.92, 1703.49, 1576.5, 1300.9, 1428.43, 1654.93, 1724.81, 1623.96, 1459.41, 1866.58 ],
-    "sueldoMedio" : 1586.3925
+    "sueldoMedio" : 1721.14,
+    "sueldoMaximo" : 1985.36,
+    "sueldoMinimo" : 1295.85
   }, {
     "id" : 23,
     "nombre" : "Fernando Serrano",
     "dni" : "23879456W",
-    "sueldosMensuales" : [ 1741.14, 1495.0, 1506.09, 1822.32, 1339.58, 1257.52, 1951.5, 1477.91, 1786.47, 1716.69, 1405.59, 1364.67 ],
-    "sueldoMedio" : 1572.04
+    "sueldoMedio" : 1580.57,
+    "sueldoMaximo" : 1912.49,
+    "sueldoMinimo" : 1201.25
   }, {
     "id" : 24,
     "nombre" : "Beatriz Diaz",
     "dni" : "87236451X",
-    "sueldosMensuales" : [ 1498.77, 1631.35, 1739.25, 1985.65, 1451.37, 1458.55, 1915.86, 1507.51, 1386.4, 1798.02, 1448.42, 1445.81 ],
-    "sueldoMedio" : 1605.58
+    "sueldoMedio" : 1573.74,
+    "sueldoMaximo" : 1872.73,
+    "sueldoMinimo" : 1290.28
   }, {
     "id" : 25,
     "nombre" : "Diego Romero",
     "dni" : "94738265Y",
-    "sueldosMensuales" : [ 1543.65, 1790.87, 1848.34, 1960.78, 1381.66, 1958.83, 1395.56, 1525.47, 1735.27, 1627.49, 1747.74, 1297.55 ],
-    "sueldoMedio" : 1651.1008333333332
+    "sueldoMedio" : 1703.82,
+    "sueldoMaximo" : 1957.26,
+    "sueldoMinimo" : 1281.61
   } ]
 }

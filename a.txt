@@ -1,25 +1,25 @@
-1 Juan Perez 12345678A Salario Máximo: 1830.17€ Salario Minimo: 1214.39€ Media Salario: 1556.61€
-2 Maria Garcia 87654321B Salario Máximo: 1986.60€ Salario Minimo: 1257.08€ Media Salario: 1712.99€
-3 Pedro Rodriguez 12398745C Salario Máximo: 1982.58€ Salario Minimo: 1270.16€ Media Salario: 1652.27€
-4 Laura Sanchez 87451236D Salario Máximo: 1908.08€ Salario Minimo: 1243.59€ Media Salario: 1576.47€
-5 Javier Lopez 74951238E Salario Máximo: 1978.67€ Salario Minimo: 1211.64€ Media Salario: 1523.82€
-6 Ana Fernandez 98234567F Salario Máximo: 1905.91€ Salario Minimo: 1259.13€ Media Salario: 1568.34€
-7 Miguel Torres 34567821G Salario Máximo: 1983.88€ Salario Minimo: 1458.79€ Media Salario: 1717.96€
-8 Lucia Martin 54872345H Salario Máximo: 1928.39€ Salario Minimo: 1288.21€ Media Salario: 1596.72€
-9 Raul Gonzalez 67543218I Salario Máximo: 1834.18€ Salario Minimo: 1279.72€ Media Salario: 1514.52€
-10 Carmen Ruiz 32458769J Salario Máximo: 1877.51€ Salario Minimo: 1208.77€ Media Salario: 1555.52€
-11 Sergio Hernandez 82736451K Salario Máximo: 1944.63€ Salario Minimo: 1260.37€ Media Salario: 1650.49€
-12 Sofia Morales 92748365L Salario Máximo: 1914.38€ Salario Minimo: 1229.29€ Media Salario: 1576.17€
-13 David Castillo 43658729M Salario Máximo: 1987.44€ Salario Minimo: 1228.49€ Media Salario: 1575.82€
-14 Isabel Ortega 98237465N Salario Máximo: 1974.60€ Salario Minimo: 1308.07€ Media Salario: 1622.18€
-15 Manuel Vega 12387594O Salario Máximo: 1948.23€ Salario Minimo: 1224.85€ Media Salario: 1579.59€
-16 Paula Rojas 76543218P Salario Máximo: 1946.10€ Salario Minimo: 1282.31€ Media Salario: 1598.08€
-17 Ruben Gimenez 12983756Q Salario Máximo: 1804.52€ Salario Minimo: 1293.00€ Media Salario: 1591.56€
-18 Adriana Ramos 67834512R Salario Máximo: 1953.39€ Salario Minimo: 1201.47€ Media Salario: 1544.99€
-19 Jose Ibanez 98237645S Salario Máximo: 1990.34€ Salario Minimo: 1320.31€ Media Salario: 1664.54€
-20 Claudia Pardo 78452139T Salario Máximo: 1973.77€ Salario Minimo: 1235.34€ Media Salario: 1627.72€
-21 Vicente Varela 92387546U Salario Máximo: 1864.54€ Salario Minimo: 1317.54€ Media Salario: 1542.63€
-22 Andrea Gutierrez 34827619V Salario Máximo: 1996.98€ Salario Minimo: 1348.52€ Media Salario: 1752.11€
-23 Fernando Serrano 23879456W Salario Máximo: 1963.95€ Salario Minimo: 1212.32€ Media Salario: 1653.89€
-24 Beatriz Diaz 87236451X Salario Máximo: 1944.20€ Salario Minimo: 1236.30€ Media Salario: 1584.41€
-25 Diego Romero 94738265Y Salario Máximo: 1996.71€ Salario Minimo: 1205.99€ Media Salario: 1599.46€
+1 Juan Perez 12345678A | Salario Máximo: 1979.08€ | Salario Minimo: 1263.81€ | Media Salario: 1666.70€
+2 Maria Garcia 87654321B | Salario Máximo: 1932.95€ | Salario Minimo: 1240.35€ | Media Salario: 1580.25€
+3 Pedro Rodriguez 12398745C | Salario Máximo: 1953.63€ | Salario Minimo: 1213.59€ | Media Salario: 1706.78€
+4 Laura Sanchez 87451236D | Salario Máximo: 1939.85€ | Salario Minimo: 1443.74€ | Media Salario: 1633.47€
+5 Javier Lopez 74951238E | Salario Máximo: 1898.10€ | Salario Minimo: 1374.32€ | Media Salario: 1648.92€
+6 Ana Fernandez 98234567F | Salario Máximo: 1931.26€ | Salario Minimo: 1300.87€ | Media Salario: 1565.22€
+7 Miguel Torres 34567821G | Salario Máximo: 1960.19€ | Salario Minimo: 1213.75€ | Media Salario: 1626.62€
+8 Lucia Martin 54872345H | Salario Máximo: 1932.88€ | Salario Minimo: 1278.66€ | Media Salario: 1613.22€
+9 Raul Gonzalez 67543218I | Salario Máximo: 1922.14€ | Salario Minimo: 1275.86€ | Media Salario: 1678.85€
+10 Carmen Ruiz 32458769J | Salario Máximo: 1979.40€ | Salario Minimo: 1239.29€ | Media Salario: 1668.78€
+11 Sergio Hernandez 82736451K | Salario Máximo: 1973.49€ | Salario Minimo: 1278.29€ | Media Salario: 1576.64€
+12 Sofia Morales 92748365L | Salario Máximo: 1990.31€ | Salario Minimo: 1225.13€ | Media Salario: 1556.48€
+13 David Castillo 43658729M | Salario Máximo: 1967.45€ | Salario Minimo: 1232.75€ | Media Salario: 1636.37€
+14 Isabel Ortega 98237465N | Salario Máximo: 1775.40€ | Salario Minimo: 1286.36€ | Media Salario: 1519.81€
+15 Manuel Vega 12387594O | Salario Máximo: 1981.47€ | Salario Minimo: 1276.62€ | Media Salario: 1608.25€
+16 Paula Rojas 76543218P | Salario Máximo: 1974.18€ | Salario Minimo: 1227.23€ | Media Salario: 1634.69€
+17 Ruben Gimenez 12983756Q | Salario Máximo: 1967.61€ | Salario Minimo: 1206.47€ | Media Salario: 1595.31€
+18 Adriana Ramos 67834512R | Salario Máximo: 1977.98€ | Salario Minimo: 1288.70€ | Media Salario: 1606.04€
+19 Jose Ibanez 98237645S | Salario Máximo: 1831.07€ | Salario Minimo: 1231.02€ | Media Salario: 1558.04€
+20 Claudia Pardo 78452139T | Salario Máximo: 1972.79€ | Salario Minimo: 1275.02€ | Media Salario: 1669.27€
+21 Vicente Varela 92387546U | Salario Máximo: 1869.35€ | Salario Minimo: 1251.67€ | Media Salario: 1559.86€
+22 Andrea Gutierrez 34827619V | Salario Máximo: 1957.27€ | Salario Minimo: 1207.79€ | Media Salario: 1651.92€
+23 Fernando Serrano 23879456W | Salario Máximo: 1777.83€ | Salario Minimo: 1271.01€ | Media Salario: 1508.71€
+24 Beatriz Diaz 87236451X | Salario Máximo: 1995.13€ | Salario Minimo: 1241.95€ | Media Salario: 1650.63€
+25 Diego Romero 94738265Y | Salario Máximo: 1773.97€ | Salario Minimo: 1219.69€ | Media Salario: 1549.94€

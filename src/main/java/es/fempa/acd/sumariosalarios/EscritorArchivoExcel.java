@@ -20,9 +20,17 @@ public class EscritorArchivoExcel {
         headerRow.createCell(1).setCellValue("Nombre");
         headerRow.createCell(2).setCellValue("DNI");
         headerRow.createCell(3).setCellValue("Sueldo Medio");
-        for (int i = 1; i <= 12; i++) {
-            headerRow.createCell(3 + i).setCellValue("Sueldo " + i);
+        headerRow.createCell(4).setCellValue("Sueldo Máximo");
+        headerRow.createCell(5).setCellValue("Sueldo Mínimo");
+
+        int[] anchos = {10, 20, 15, 15, 15, 15};
+        for (int i = 0; i < anchos.length; i++) {
+            sheet.setColumnWidth(i, anchos[i] * 256);
         }
+
+        /*for (int i = 1; i <= 12; i++) {
+            headerRow.createCell(3 + i).setCellValue("Sueldo " + i);
+        }*/
 
         // Escribir datos de empleados
         int rowNum = 1;
@@ -33,10 +41,12 @@ public class EscritorArchivoExcel {
             row.createCell(1).setCellValue(empleado.getNombre());
             row.createCell(2).setCellValue(empleado.getDni());
             row.createCell(3).setCellValue(empleado.calcularSueldoMedio());
+            row.createCell(4).setCellValue(empleado.obtenerSueldoMaximo());
+            row.createCell(5).setCellValue(empleado.obtenerSueldoMinimo());
 
-            for (int i = 0; i < empleado.getSueldosMensuales().size(); i++) {
+            /*for (int i = 0; i < empleado.getSueldosMensuales().size(); i++) {
                 row.createCell(4 + i).setCellValue(empleado.getSueldosMensuales().get(i));
-            }
+            }*/
         }
 
         // Escribir el archivo

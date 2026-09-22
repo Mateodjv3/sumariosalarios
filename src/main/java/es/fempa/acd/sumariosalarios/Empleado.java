@@ -1,5 +1,7 @@
 package es.fempa.acd.sumariosalarios;
 
+import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.util.List;
 
 public class Empleado {
@@ -55,10 +57,13 @@ public class Empleado {
 
     // Metodo para calcular el sueldo medio (usando Streams)
     public double calcularSueldoMedio() {
-        return sueldosMensuales.stream()
+        double promedio = sueldosMensuales.stream()
                 .mapToDouble(Double::doubleValue)
                 .average()
                 .orElse(0.0);
+        return new BigDecimal(promedio)
+                .setScale(2, RoundingMode.HALF_UP)
+                .doubleValue();
     }
 
     // Alias en forma de "getter" para que Jackson incluya el sueldo medio
