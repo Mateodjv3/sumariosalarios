@@ -11,7 +11,7 @@ import java.util.List;
 
 public class EscritorArchivoXML {
 
-    // Escribe el archivo de SALIDA (procesado): incluye el sueldo medio de cada empleado
+    // Escribe el archivo de SALIDA:
     public static void escribirArchivoXML(String rutaArchivo, List<Empleado> empleados) throws IOException {
         Element rootElement = new Element("empleados");
         Document documento = new Document(rootElement);
@@ -24,16 +24,19 @@ public class EscritorArchivoXML {
             Element dniElement = new Element("dni").setText(empleado.getDni());
             Element sueldoMedioElement = new Element("sueldoMedio").setText(String.valueOf(empleado.calcularSueldoMedio()));
 
-            Element sueldosElement = new Element("sueldos");
+            Element sueldoMaximoElement = new Element("sueldoMaximo").setText(String.valueOf(empleado.obtenerSueldoMaximo()));
+            Element sueldoMinimoElement = new Element("sueldoMinimo").setText(String.valueOf(empleado.obtenerSueldoMinimo()));
+            /*Element sueldosElement = new Element("sueldos");
             for (Double sueldo : empleado.getSueldosMensuales()) {
                 sueldosElement.addContent(new Element("sueldo").setText(String.valueOf(sueldo)));
-            }
+            }*/
 
             empleadoElement.addContent(idElement);
             empleadoElement.addContent(nombreElement);
             empleadoElement.addContent(dniElement);
             empleadoElement.addContent(sueldoMedioElement);
-            empleadoElement.addContent(sueldosElement);
+            empleadoElement.addContent(sueldoMaximoElement);
+            empleadoElement.addContent(sueldoMinimoElement);
 
             rootElement.addContent(empleadoElement);
         }
