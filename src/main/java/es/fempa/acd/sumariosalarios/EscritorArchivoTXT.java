@@ -12,24 +12,26 @@ public class EscritorArchivoTXT {
     public static void escribirArchivoTXT(String rutaArchivo, List<Empleado> empleados) throws IOException {
         try (BufferedWriter bw = new BufferedWriter(new FileWriter(rutaArchivo))) {
             for (Empleado empleado : empleados) {
-                // Formatear la salida como id nombre dni sueldo medio sueldos mensuales
+                // Formatear la salida como id nombre dni sueldo medio, sueldos mensuales
                 bw.write(empleado.getId() + " " + empleado.getNombre() + " " + empleado.getDni() + " " +
-                        String.format(Locale.US, "%.2f", empleado.calcularSueldoMedio()));
+                        "| Salario Máximo: " + String.format(Locale.US, "%.2f", empleado.obtenerSueldoMaximo()) + "€ " +
+                        "| Salario Minimo: " +String.format(Locale.US, "%.2f", empleado.obtenerSueldoMinimo()) + "€ " +
+                        "| Media Salario: " +String.format(Locale.US, "%.2f", empleado.calcularSueldoMedio()) + "€");
 
-                for (Double sueldo : empleado.getSueldosMensuales()) {
+                /*for (Double sueldo : empleado.getSueldosMensuales()) {
                     bw.write(" " + sueldo);
-                }
+                }*/
 
                 bw.newLine(); // Saltar a la siguiente línea
             }
         }
     }
 
-    // Escribe el dataset ORIGINAL (sin procesar): id, nombre, dni y sueldos mensuales
+    // Escribe el dataset ORIGINAL: id, nombre, dni y sueldos
     public static void escribirDatosGenerados(String rutaArchivo, List<Empleado> empleados) throws IOException {
         try (BufferedWriter bw = new BufferedWriter(new FileWriter(rutaArchivo))) {
             for (Empleado empleado : empleados) {
-                // Escribir id, nombre, dni y sueldos mensuales
+                // Escribir id, nombre, dni y sueldos maximo, minimo y promedio de salarios
                 bw.write(empleado.getId() + " " + empleado.getNombre() + " " + empleado.getDni());
 
                 for (Double sueldo : empleado.getSueldosMensuales()) {
