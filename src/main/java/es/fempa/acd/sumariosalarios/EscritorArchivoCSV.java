@@ -17,11 +17,14 @@ public class EscritorArchivoCSV {
                 csvPrinter.print(empleado.getId());
                 csvPrinter.print(empleado.getNombre());
                 csvPrinter.print(empleado.getDni());
-                csvPrinter.print(empleado.calcularSueldoMedio());
 
-                for (Double sueldo : empleado.getSueldosMensuales()) {
+                csvPrinter.print("| Salario Máximo: " + empleado.obtenerSueldoMaximo() + "€");
+                csvPrinter.print("| Salario Mínimo: " + empleado.obtenerSueldoMinimo() + "€");
+                csvPrinter.print("| Media Salario: " + empleado.calcularSueldoMedio() + "€");
+
+                /*for (Double sueldo : empleado.getSueldosMensuales()) {
                     csvPrinter.print(sueldo);
-                }
+                }*/
 
                 csvPrinter.println();
             }

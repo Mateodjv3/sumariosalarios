@@ -5,18 +5,18 @@
     <nombre>Juan Perez</nombre>
     <dni>12345678A</dni>
     <sueldos>
-      <sueldo>1724.46</sueldo>
-      <sueldo>1768.99</sueldo>
-      <sueldo>1490.35</sueldo>
-      <sueldo>1734.64</sueldo>
-      <sueldo>1442.25</sueldo>
-      <sueldo>1742.02</sueldo>
-      <sueldo>1867.61</sueldo>
-      <sueldo>1202.65</sueldo>
-      <sueldo>1906.47</sueldo>
-      <sueldo>1483.59</sueldo>
-      <sueldo>1321.54</sueldo>
-      <sueldo>1656.86</sueldo>
+      <sueldo>1944.43</sueldo>
+      <sueldo>1442.79</sueldo>
+      <sueldo>1990.78</sueldo>
+      <sueldo>1561.35</sueldo>
+      <sueldo>1737.7</sueldo>
+      <sueldo>1429.75</sueldo>
+      <sueldo>1291.36</sueldo>
+      <sueldo>1999.66</sueldo>
+      <sueldo>1700.1</sueldo>
+      <sueldo>1540.2</sueldo>
+      <sueldo>1325.38</sueldo>
+      <sueldo>1529.11</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -24,18 +24,18 @@
     <nombre>Maria Garcia</nombre>
     <dni>87654321B</dni>
     <sueldos>
-      <sueldo>1636.64</sueldo>
-      <sueldo>1998.29</sueldo>
-      <sueldo>1518.43</sueldo>
-      <sueldo>1677.01</sueldo>
-      <sueldo>1237.79</sueldo>
-      <sueldo>1595.39</sueldo>
-      <sueldo>1459.32</sueldo>
-      <sueldo>1238.25</sueldo>
-      <sueldo>1257.44</sueldo>
-      <sueldo>1238.5</sueldo>
-      <sueldo>1946.76</sueldo>
-      <sueldo>1246.66</sueldo>
+      <sueldo>1264.75</sueldo>
+      <sueldo>1222.6</sueldo>
+      <sueldo>1277.15</sueldo>
+      <sueldo>1920.55</sueldo>
+      <sueldo>1957.11</sueldo>
+      <sueldo>1803.03</sueldo>
+      <sueldo>1672.74</sueldo>
+      <sueldo>1268.52</sueldo>
+      <sueldo>1746.76</sueldo>
+      <sueldo>1760.83</sueldo>
+      <sueldo>1260.0</sueldo>
+      <sueldo>1649.67</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -43,18 +43,18 @@
     <nombre>Pedro Rodriguez</nombre>
     <dni>12398745C</dni>
     <sueldos>
-      <sueldo>1256.28</sueldo>
-      <sueldo>1998.11</sueldo>
-      <sueldo>1996.59</sueldo>
-      <sueldo>1711.69</sueldo>
-      <sueldo>1505.57</sueldo>
-      <sueldo>1345.59</sueldo>
-      <sueldo>1261.67</sueldo>
-      <sueldo>1313.75</sueldo>
-      <sueldo>1987.87</sueldo>
-      <sueldo>1672.79</sueldo>
-      <sueldo>1409.67</sueldo>
-      <sueldo>1882.24</sueldo>
+      <sueldo>1642.53</sueldo>
+      <sueldo>1261.34</sueldo>
+      <sueldo>1853.15</sueldo>
+      <sueldo>1985.71</sueldo>
+      <sueldo>1607.71</sueldo>
+      <sueldo>1570.55</sueldo>
+      <sueldo>1990.82</sueldo>
+      <sueldo>1223.45</sueldo>
+      <sueldo>1872.94</sueldo>
+      <sueldo>1258.15</sueldo>
+      <sueldo>1469.84</sueldo>
+      <sueldo>1538.92</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -62,18 +62,18 @@
     <nombre>Laura Sanchez</nombre>
     <dni>87451236D</dni>
     <sueldos>
-      <sueldo>1265.53</sueldo>
-      <sueldo>1889.94</sueldo>
-      <sueldo>1298.29</sueldo>
-      <sueldo>1281.25</sueldo>
-      <sueldo>1895.09</sueldo>
-      <sueldo>1649.88</sueldo>
-      <sueldo>1716.8</sueldo>
-      <sueldo>1407.36</sueldo>
-      <sueldo>1403.66</sueldo>
-      <sueldo>1265.54</sueldo>
-      <sueldo>1813.75</sueldo>
-      <sueldo>1235.75</sueldo>
+      <sueldo>1350.12</sueldo>
+      <sueldo>1802.77</sueldo>
+      <sueldo>1855.52</sueldo>
+      <sueldo>1492.26</sueldo>
+      <sueldo>1901.46</sueldo>
+      <sueldo>1945.11</sueldo>
+      <sueldo>1732.15</sueldo>
+      <sueldo>1704.4</sueldo>
+      <sueldo>1693.57</sueldo>
+      <sueldo>1291.74</sueldo>
+      <sueldo>1746.12</sueldo>
+      <sueldo>1896.26</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -81,18 +81,18 @@
     <nombre>Javier Lopez</nombre>
     <dni>74951238E</dni>
     <sueldos>
-      <sueldo>1206.96</sueldo>
-      <sueldo>1532.69</sueldo>
-      <sueldo>1906.16</sueldo>
-      <sueldo>1708.12</sueldo>
-      <sueldo>1836.68</sueldo>
-      <sueldo>1239.0</sueldo>
-      <sueldo>1366.85</sueldo>
-      <sueldo>1337.79</sueldo>
-      <sueldo>1858.3</sueldo>
-      <sueldo>1735.36</sueldo>
-      <sueldo>1311.6</sueldo>
-      <sueldo>1514.39</sueldo>
+      <sueldo>1567.25</sueldo>
+      <sueldo>1254.31</sueldo>
+      <sueldo>1406.81</sueldo>
+      <sueldo>1625.61</sueldo>
+      <sueldo>1679.6</sueldo>
+      <sueldo>1416.06</sueldo>
+      <sueldo>1549.27</sueldo>
+      <sueldo>1376.24</sueldo>
+      <sueldo>1225.42</sueldo>
+      <sueldo>1849.45</sueldo>
+      <sueldo>1725.57</sueldo>
+      <sueldo>1398.83</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -100,18 +100,18 @@
     <nombre>Ana Fernandez</nombre>
     <dni>98234567F</dni>
     <sueldos>
-      <sueldo>1498.76</sueldo>
-      <sueldo>1564.75</sueldo>
-      <sueldo>1859.43</sueldo>
-      <sueldo>1422.73</sueldo>
-      <sueldo>1466.55</sueldo>
-      <sueldo>1388.48</sueldo>
-      <sueldo>1214.23</sueldo>
-      <sueldo>1847.19</sueldo>
-      <sueldo>1935.21</sueldo>
-      <sueldo>1919.33</sueldo>
-      <sueldo>1917.64</sueldo>
-      <sueldo>1315.35</sueldo>
+      <sueldo>1421.25</sueldo>
+      <sueldo>1565.74</sueldo>
+      <sueldo>1380.05</sueldo>
+      <sueldo>1672.2</sueldo>
+      <sueldo>1535.64</sueldo>
+      <sueldo>1359.53</sueldo>
+      <sueldo>1477.26</sueldo>
+      <sueldo>1548.2</sueldo>
+      <sueldo>1575.3</sueldo>
+      <sueldo>1418.2</sueldo>
+      <sueldo>1689.22</sueldo>
+      <sueldo>1263.19</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -119,18 +119,18 @@
     <nombre>Miguel Torres</nombre>
     <dni>34567821G</dni>
     <sueldos>
-      <sueldo>1374.35</sueldo>
-      <sueldo>1265.37</sueldo>
-      <sueldo>1947.93</sueldo>
-      <sueldo>1841.33</sueldo>
-      <sueldo>1850.86</sueldo>
-      <sueldo>1408.04</sueldo>
-      <sueldo>1291.27</sueldo>
-      <sueldo>1761.36</sueldo>
-      <sueldo>1785.8</sueldo>
-      <sueldo>1282.37</sueldo>
-      <sueldo>1786.94</sueldo>
-      <sueldo>1411.5</sueldo>
+      <sueldo>1687.56</sueldo>
+      <sueldo>1398.09</sueldo>
+      <sueldo>1312.32</sueldo>
+      <sueldo>1943.42</sueldo>
+      <sueldo>1415.27</sueldo>
+      <sueldo>1626.59</sueldo>
+      <sueldo>1372.16</sueldo>
+      <sueldo>1201.18</sueldo>
+      <sueldo>1241.02</sueldo>
+      <sueldo>1471.15</sueldo>
+      <sueldo>1288.11</sueldo>
+      <sueldo>1513.21</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -138,18 +138,18 @@
     <nombre>Lucia Martin</nombre>
     <dni>54872345H</dni>
     <sueldos>
-      <sueldo>1341.34</sueldo>
-      <sueldo>1297.02</sueldo>
-      <sueldo>1849.14</sueldo>
-      <sueldo>1278.77</sueldo>
-      <sueldo>1224.76</sueldo>
-      <sueldo>1526.02</sueldo>
-      <sueldo>1693.71</sueldo>
-      <sueldo>1364.81</sueldo>
-      <sueldo>1935.36</sueldo>
-      <sueldo>1623.92</sueldo>
-      <sueldo>1348.87</sueldo>
-      <sueldo>1232.44</sueldo>
+      <sueldo>1583.49</sueldo>
+      <sueldo>1923.19</sueldo>
+      <sueldo>1207.53</sueldo>
+      <sueldo>1892.33</sueldo>
+      <sueldo>1359.37</sueldo>
+      <sueldo>1677.09</sueldo>
+      <sueldo>1482.94</sueldo>
+      <sueldo>1907.67</sueldo>
+      <sueldo>1800.14</sueldo>
+      <sueldo>1441.4</sueldo>
+      <sueldo>1753.71</sueldo>
+      <sueldo>1278.71</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -157,18 +157,18 @@
     <nombre>Raul Gonzalez</nombre>
     <dni>67543218I</dni>
     <sueldos>
-      <sueldo>1743.09</sueldo>
-      <sueldo>1560.42</sueldo>
-      <sueldo>1805.0</sueldo>
-      <sueldo>1363.09</sueldo>
-      <sueldo>1576.01</sueldo>
-      <sueldo>1740.17</sueldo>
-      <sueldo>1958.94</sueldo>
-      <sueldo>1234.83</sueldo>
-      <sueldo>1507.17</sueldo>
-      <sueldo>1767.83</sueldo>
-      <sueldo>1334.51</sueldo>
-      <sueldo>1937.84</sueldo>
+      <sueldo>1413.86</sueldo>
+      <sueldo>1501.39</sueldo>
+      <sueldo>1307.05</sueldo>
+      <sueldo>1662.54</sueldo>
+      <sueldo>1607.58</sueldo>
+      <sueldo>1459.15</sueldo>
+      <sueldo>1831.38</sueldo>
+      <sueldo>1873.5</sueldo>
+      <sueldo>1537.37</sueldo>
+      <sueldo>1409.51</sueldo>
+      <sueldo>1338.64</sueldo>
+      <sueldo>1218.75</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -176,18 +176,18 @@
     <nombre>Carmen Ruiz</nombre>
     <dni>32458769J</dni>
     <sueldos>
-      <sueldo>1469.46</sueldo>
-      <sueldo>1438.21</sueldo>
-      <sueldo>1311.31</sueldo>
-      <sueldo>1576.08</sueldo>
-      <sueldo>1390.66</sueldo>
-      <sueldo>1875.66</sueldo>
-      <sueldo>1770.0</sueldo>
-      <sueldo>1761.23</sueldo>
-      <sueldo>1928.82</sueldo>
-      <sueldo>1916.52</sueldo>
-      <sueldo>1262.71</sueldo>
-      <sueldo>1586.59</sueldo>
+      <sueldo>1227.95</sueldo>
+      <sueldo>1366.99</sueldo>
+      <sueldo>1520.02</sueldo>
+      <sueldo>1503.0</sueldo>
+      <sueldo>1905.49</sueldo>
+      <sueldo>1341.04</sueldo>
+      <sueldo>1313.11</sueldo>
+      <sueldo>1750.04</sueldo>
+      <sueldo>1412.27</sueldo>
+      <sueldo>1264.01</sueldo>
+      <sueldo>1796.83</sueldo>
+      <sueldo>1208.3</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -195,18 +195,18 @@
     <nombre>Sergio Hernandez</nombre>
     <dni>82736451K</dni>
     <sueldos>
-      <sueldo>1201.65</sueldo>
-      <sueldo>1622.92</sueldo>
-      <sueldo>1443.26</sueldo>
-      <sueldo>1576.07</sueldo>
-      <sueldo>1341.68</sueldo>
-      <sueldo>1235.79</sueldo>
-      <sueldo>1742.63</sueldo>
-      <sueldo>1435.16</sueldo>
-      <sueldo>1372.46</sueldo>
-      <sueldo>1519.38</sueldo>
-      <sueldo>1750.71</sueldo>
-      <sueldo>1587.88</sueldo>
+      <sueldo>1723.11</sueldo>
+      <sueldo>1608.09</sueldo>
+      <sueldo>1693.5</sueldo>
+      <sueldo>1752.12</sueldo>
+      <sueldo>1359.06</sueldo>
+      <sueldo>1584.63</sueldo>
+      <sueldo>1945.9</sueldo>
+      <sueldo>1560.09</sueldo>
+      <sueldo>1894.65</sueldo>
+      <sueldo>1501.29</sueldo>
+      <sueldo>1250.47</sueldo>
+      <sueldo>1946.22</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -214,18 +214,18 @@
     <nombre>Sofia Morales</nombre>
     <dni>92748365L</dni>
     <sueldos>
-      <sueldo>1389.11</sueldo>
-      <sueldo>1519.29</sueldo>
-      <sueldo>1666.3</sueldo>
-      <sueldo>1465.85</sueldo>
-      <sueldo>1340.01</sueldo>
-      <sueldo>1850.37</sueldo>
-      <sueldo>1503.16</sueldo>
-      <sueldo>1722.37</sueldo>
-      <sueldo>1844.5</sueldo>
-      <sueldo>1350.48</sueldo>
-      <sueldo>1890.54</sueldo>
-      <sueldo>1376.77</sueldo>
+      <sueldo>1980.76</sueldo>
+      <sueldo>1559.42</sueldo>
+      <sueldo>1665.87</sueldo>
+      <sueldo>1239.31</sueldo>
+      <sueldo>1956.12</sueldo>
+      <sueldo>1506.21</sueldo>
+      <sueldo>1679.73</sueldo>
+      <sueldo>1250.32</sueldo>
+      <sueldo>1995.89</sueldo>
+      <sueldo>1713.06</sueldo>
+      <sueldo>1404.27</sueldo>
+      <sueldo>1537.19</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -233,18 +233,18 @@
     <nombre>David Castillo</nombre>
     <dni>43658729M</dni>
     <sueldos>
-      <sueldo>1245.05</sueldo>
-      <sueldo>1480.56</sueldo>
-      <sueldo>1682.49</sueldo>
-      <sueldo>1551.18</sueldo>
-      <sueldo>1280.19</sueldo>
-      <sueldo>1421.12</sueldo>
-      <sueldo>1390.96</sueldo>
-      <sueldo>1743.7</sueldo>
-      <sueldo>1778.29</sueldo>
-      <sueldo>1409.65</sueldo>
-      <sueldo>1483.65</sueldo>
-      <sueldo>1689.34</sueldo>
+      <sueldo>1246.99</sueldo>
+      <sueldo>1633.69</sueldo>
+      <sueldo>1685.24</sueldo>
+      <sueldo>1971.1</sueldo>
+      <sueldo>1725.2</sueldo>
+      <sueldo>1402.66</sueldo>
+      <sueldo>1846.51</sueldo>
+      <sueldo>1427.46</sueldo>
+      <sueldo>1700.14</sueldo>
+      <sueldo>1366.85</sueldo>
+      <sueldo>1556.12</sueldo>
+      <sueldo>1769.83</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -252,18 +252,18 @@
     <nombre>Isabel Ortega</nombre>
     <dni>98237465N</dni>
     <sueldos>
-      <sueldo>1810.12</sueldo>
-      <sueldo>1282.98</sueldo>
-      <sueldo>1238.18</sueldo>
-      <sueldo>1791.92</sueldo>
-      <sueldo>1201.62</sueldo>
-      <sueldo>1433.32</sueldo>
-      <sueldo>1919.9</sueldo>
-      <sueldo>1467.15</sueldo>
-      <sueldo>1796.62</sueldo>
-      <sueldo>1256.11</sueldo>
-      <sueldo>1551.69</sueldo>
-      <sueldo>1919.21</sueldo>
+      <sueldo>1669.9</sueldo>
+      <sueldo>1799.42</sueldo>
+      <sueldo>1287.82</sueldo>
+      <sueldo>1664.1</sueldo>
+      <sueldo>1827.88</sueldo>
+      <sueldo>1328.19</sueldo>
+      <sueldo>1865.52</sueldo>
+      <sueldo>1355.17</sueldo>
+      <sueldo>1550.12</sueldo>
+      <sueldo>1716.81</sueldo>
+      <sueldo>1816.09</sueldo>
+      <sueldo>1357.56</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -271,18 +271,18 @@
     <nombre>Manuel Vega</nombre>
     <dni>12387594O</dni>
     <sueldos>
-      <sueldo>1572.4</sueldo>
-      <sueldo>1662.24</sueldo>
-      <sueldo>1469.57</sueldo>
-      <sueldo>1480.1</sueldo>
-      <sueldo>1449.35</sueldo>
-      <sueldo>1347.06</sueldo>
-      <sueldo>1609.02</sueldo>
-      <sueldo>1273.22</sueldo>
-      <sueldo>1999.21</sueldo>
-      <sueldo>1652.65</sueldo>
-      <sueldo>1242.36</sueldo>
-      <sueldo>1419.46</sueldo>
+      <sueldo>1282.35</sueldo>
+      <sueldo>1369.73</sueldo>
+      <sueldo>1719.57</sueldo>
+      <sueldo>1856.16</sueldo>
+      <sueldo>1681.62</sueldo>
+      <sueldo>1888.49</sueldo>
+      <sueldo>1833.88</sueldo>
+      <sueldo>1882.75</sueldo>
+      <sueldo>1968.18</sueldo>
+      <sueldo>1989.37</sueldo>
+      <sueldo>1384.46</sueldo>
+      <sueldo>1228.46</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -290,18 +290,18 @@
     <nombre>Paula Rojas</nombre>
     <dni>76543218P</dni>
     <sueldos>
-      <sueldo>1644.72</sueldo>
-      <sueldo>1229.97</sueldo>
-      <sueldo>1488.7</sueldo>
-      <sueldo>1686.27</sueldo>
-      <sueldo>1756.83</sueldo>
-      <sueldo>1301.32</sueldo>
-      <sueldo>1343.37</sueldo>
-      <sueldo>1387.11</sueldo>
-      <sueldo>1293.65</sueldo>
-      <sueldo>1543.75</sueldo>
-      <sueldo>1424.9</sueldo>
-      <sueldo>1470.82</sueldo>
+      <sueldo>1569.08</sueldo>
+      <sueldo>1498.93</sueldo>
+      <sueldo>1447.65</sueldo>
+      <sueldo>1971.84</sueldo>
+      <sueldo>1485.8</sueldo>
+      <sueldo>1776.61</sueldo>
+      <sueldo>1519.8</sueldo>
+      <sueldo>1646.94</sueldo>
+      <sueldo>1993.85</sueldo>
+      <sueldo>1369.97</sueldo>
+      <sueldo>1852.34</sueldo>
+      <sueldo>1644.92</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -309,18 +309,18 @@
     <nombre>Ruben Gimenez</nombre>
     <dni>12983756Q</dni>
     <sueldos>
-      <sueldo>1888.97</sueldo>
-      <sueldo>1458.15</sueldo>
-      <sueldo>1512.96</sueldo>
-      <sueldo>1497.36</sueldo>
-      <sueldo>1986.12</sueldo>
-      <sueldo>1358.4</sueldo>
-      <sueldo>1652.01</sueldo>
-      <sueldo>1978.55</sueldo>
-      <sueldo>1326.51</sueldo>
-      <sueldo>1609.6</sueldo>
-      <sueldo>1720.53</sueldo>
-      <sueldo>1969.18</sueldo>
+      <sueldo>1283.26</sueldo>
+      <sueldo>1390.73</sueldo>
+      <sueldo>1846.5</sueldo>
+      <sueldo>1637.78</sueldo>
+      <sueldo>1874.45</sueldo>
+      <sueldo>1206.42</sueldo>
+      <sueldo>1639.45</sueldo>
+      <sueldo>1631.81</sueldo>
+      <sueldo>1694.93</sueldo>
+      <sueldo>1574.61</sueldo>
+      <sueldo>1477.08</sueldo>
+      <sueldo>1303.23</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -328,18 +328,18 @@
     <nombre>Adriana Ramos</nombre>
     <dni>67834512R</dni>
     <sueldos>
-      <sueldo>1640.25</sueldo>
-      <sueldo>1263.74</sueldo>
-      <sueldo>1717.2</sueldo>
-      <sueldo>1226.4</sueldo>
-      <sueldo>1349.62</sueldo>
-      <sueldo>1785.9</sueldo>
-      <sueldo>1790.43</sueldo>
-      <sueldo>1311.73</sueldo>
-      <sueldo>1484.45</sueldo>
-      <sueldo>1733.46</sueldo>
-      <sueldo>1639.16</sueldo>
-      <sueldo>1892.52</sueldo>
+      <sueldo>1377.95</sueldo>
+      <sueldo>1703.83</sueldo>
+      <sueldo>1956.74</sueldo>
+      <sueldo>1938.0</sueldo>
+      <sueldo>1845.05</sueldo>
+      <sueldo>1307.16</sueldo>
+      <sueldo>1736.76</sueldo>
+      <sueldo>1992.04</sueldo>
+      <sueldo>1360.23</sueldo>
+      <sueldo>1721.51</sueldo>
+      <sueldo>1447.63</sueldo>
+      <sueldo>1807.99</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -347,18 +347,18 @@
     <nombre>Jose Ibanez</nombre>
     <dni>98237645S</dni>
     <sueldos>
-      <sueldo>1221.8</sueldo>
-      <sueldo>1645.32</sueldo>
-      <sueldo>1738.02</sueldo>
-      <sueldo>1606.52</sueldo>
-      <sueldo>1300.4</sueldo>
-      <sueldo>1817.85</sueldo>
-      <sueldo>1891.09</sueldo>
-      <sueldo>1985.3</sueldo>
-      <sueldo>1623.95</sueldo>
-      <sueldo>1888.54</sueldo>
-      <sueldo>1494.14</sueldo>
-      <sueldo>1289.19</sueldo>
+      <sueldo>1794.25</sueldo>
+      <sueldo>1597.77</sueldo>
+      <sueldo>1303.23</sueldo>
+      <sueldo>1968.9</sueldo>
+      <sueldo>1413.34</sueldo>
+      <sueldo>1723.96</sueldo>
+      <sueldo>1298.5</sueldo>
+      <sueldo>1938.95</sueldo>
+      <sueldo>1307.32</sueldo>
+      <sueldo>1425.51</sueldo>
+      <sueldo>1693.49</sueldo>
+      <sueldo>1835.71</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -366,18 +366,18 @@
     <nombre>Claudia Pardo</nombre>
     <dni>78452139T</dni>
     <sueldos>
-      <sueldo>1255.21</sueldo>
-      <sueldo>1818.13</sueldo>
-      <sueldo>1786.08</sueldo>
-      <sueldo>1488.69</sueldo>
-      <sueldo>1516.61</sueldo>
-      <sueldo>1356.3</sueldo>
-      <sueldo>1295.95</sueldo>
-      <sueldo>1634.03</sueldo>
-      <sueldo>1650.82</sueldo>
-      <sueldo>1795.66</sueldo>
-      <sueldo>1642.98</sueldo>
-      <sueldo>1686.78</sueldo>
+      <sueldo>1398.1</sueldo>
+      <sueldo>1693.86</sueldo>
+      <sueldo>1721.95</sueldo>
+      <sueldo>1998.03</sueldo>
+      <sueldo>1820.11</sueldo>
+      <sueldo>1326.65</sueldo>
+      <sueldo>1325.61</sueldo>
+      <sueldo>1658.16</sueldo>
+      <sueldo>1940.0</sueldo>
+      <sueldo>1919.73</sueldo>
+      <sueldo>1804.19</sueldo>
+      <sueldo>1896.34</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -385,18 +385,18 @@
     <nombre>Vicente Varela</nombre>
     <dni>92387546U</dni>
     <sueldos>
-      <sueldo>1458.53</sueldo>
-      <sueldo>1763.38</sueldo>
-      <sueldo>1822.39</sueldo>
-      <sueldo>1344.47</sueldo>
-      <sueldo>1718.7</sueldo>
-      <sueldo>1569.03</sueldo>
-      <sueldo>1511.02</sueldo>
-      <sueldo>1270.93</sueldo>
-      <sueldo>1809.63</sueldo>
-      <sueldo>1822.16</sueldo>
-      <sueldo>1752.33</sueldo>
-      <sueldo>1852.59</sueldo>
+      <sueldo>1583.96</sueldo>
+      <sueldo>1533.25</sueldo>
+      <sueldo>1383.72</sueldo>
+      <sueldo>1550.4</sueldo>
+      <sueldo>1966.53</sueldo>
+      <sueldo>1661.29</sueldo>
+      <sueldo>1244.68</sueldo>
+      <sueldo>1872.73</sueldo>
+      <sueldo>1365.57</sueldo>
+      <sueldo>1766.14</sueldo>
+      <sueldo>1314.32</sueldo>
+      <sueldo>1671.22</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -404,18 +404,18 @@
     <nombre>Andrea Gutierrez</nombre>
     <dni>34827619V</dni>
     <sueldos>
-      <sueldo>1988.14</sueldo>
-      <sueldo>1652.26</sueldo>
-      <sueldo>1431.03</sueldo>
-      <sueldo>1532.42</sueldo>
-      <sueldo>1246.52</sueldo>
-      <sueldo>1908.69</sueldo>
-      <sueldo>1823.6</sueldo>
-      <sueldo>1330.76</sueldo>
-      <sueldo>1356.06</sueldo>
-      <sueldo>1587.18</sueldo>
-      <sueldo>1211.69</sueldo>
-      <sueldo>1943.89</sueldo>
+      <sueldo>1964.17</sueldo>
+      <sueldo>1295.85</sueldo>
+      <sueldo>1916.06</sueldo>
+      <sueldo>1440.54</sueldo>
+      <sueldo>1480.51</sueldo>
+      <sueldo>1985.36</sueldo>
+      <sueldo>1981.96</sueldo>
+      <sueldo>1784.61</sueldo>
+      <sueldo>1833.01</sueldo>
+      <sueldo>1748.62</sueldo>
+      <sueldo>1772.66</sueldo>
+      <sueldo>1450.37</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -423,18 +423,18 @@
     <nombre>Fernando Serrano</nombre>
     <dni>23879456W</dni>
     <sueldos>
-      <sueldo>1218.68</sueldo>
-      <sueldo>1424.66</sueldo>
-      <sueldo>1470.91</sueldo>
-      <sueldo>1218.59</sueldo>
-      <sueldo>1786.61</sueldo>
-      <sueldo>1923.11</sueldo>
-      <sueldo>1898.77</sueldo>
-      <sueldo>1232.6</sueldo>
-      <sueldo>1373.52</sueldo>
-      <sueldo>1608.1</sueldo>
-      <sueldo>1520.86</sueldo>
-      <sueldo>1268.29</sueldo>
+      <sueldo>1538.52</sueldo>
+      <sueldo>1201.25</sueldo>
+      <sueldo>1912.49</sueldo>
+      <sueldo>1538.05</sueldo>
+      <sueldo>1617.21</sueldo>
+      <sueldo>1610.25</sueldo>
+      <sueldo>1835.55</sueldo>
+      <sueldo>1722.05</sueldo>
+      <sueldo>1678.7</sueldo>
+      <sueldo>1249.19</sueldo>
+      <sueldo>1852.05</sueldo>
+      <sueldo>1211.5</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -442,18 +442,18 @@
     <nombre>Beatriz Diaz</nombre>
     <dni>87236451X</dni>
     <sueldos>
-      <sueldo>1768.57</sueldo>
-      <sueldo>1896.97</sueldo>
-      <sueldo>1715.45</sueldo>
-      <sueldo>1648.6</sueldo>
-      <sueldo>1578.21</sueldo>
-      <sueldo>1946.18</sueldo>
-      <sueldo>1822.22</sueldo>
-      <sueldo>1711.51</sueldo>
-      <sueldo>1458.83</sueldo>
-      <sueldo>1867.01</sueldo>
-      <sueldo>1851.96</sueldo>
-      <sueldo>1531.15</sueldo>
+      <sueldo>1589.46</sueldo>
+      <sueldo>1344.64</sueldo>
+      <sueldo>1582.39</sueldo>
+      <sueldo>1298.98</sueldo>
+      <sueldo>1872.73</sueldo>
+      <sueldo>1831.22</sueldo>
+      <sueldo>1869.71</sueldo>
+      <sueldo>1290.28</sueldo>
+      <sueldo>1567.48</sueldo>
+      <sueldo>1790.13</sueldo>
+      <sueldo>1470.04</sueldo>
+      <sueldo>1377.86</sueldo>
     </sueldos>
   </empleado>
   <empleado>
@@ -461,18 +461,18 @@
     <nombre>Diego Romero</nombre>
     <dni>94738265Y</dni>
     <sueldos>
-      <sueldo>1566.71</sueldo>
-      <sueldo>1743.11</sueldo>
-      <sueldo>1289.43</sueldo>
-      <sueldo>1750.96</sueldo>
-      <sueldo>1839.89</sueldo>
-      <sueldo>1353.16</sueldo>
-      <sueldo>1682.64</sueldo>
-      <sueldo>1476.14</sueldo>
-      <sueldo>1439.89</sueldo>
-      <sueldo>1796.27</sueldo>
-      <sueldo>1637.67</sueldo>
-      <sueldo>1379.65</sueldo>
+      <sueldo>1674.2</sueldo>
+      <sueldo>1327.63</sueldo>
+      <sueldo>1832.21</sueldo>
+      <sueldo>1814.94</sueldo>
+      <sueldo>1940.72</sueldo>
+      <sueldo>1957.26</sueldo>
+      <sueldo>1918.31</sueldo>
+      <sueldo>1566.94</sueldo>
+      <sueldo>1392.22</sueldo>
+      <sueldo>1281.61</sueldo>
+      <sueldo>1878.57</sueldo>
+      <sueldo>1861.25</sueldo>
     </sueldos>
   </empleado>
 </empleados>
